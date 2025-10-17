@@ -6,6 +6,9 @@
       "e": "AQAB",
       "ext": true,
       "kid": "test-key-001",
+       "key_ops": [
+        "verify"
+      ],
       "alg": "RS256",
       "use": "sig"
     }
