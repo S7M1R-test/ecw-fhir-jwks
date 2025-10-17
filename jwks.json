@@ -9,7 +9,7 @@
        "key_ops": [
         "verify"
       ],
-      "alg": "RS256",
+      "alg": "RS384",
       "use": "sig"
     }
   ]
